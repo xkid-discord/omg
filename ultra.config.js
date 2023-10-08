@@ -1,4 +1,4 @@
-/*global Ultraviolet*/
+global Ultraviolet
 self.__uv$config = {
     prefix: '/service/',
     bare: '/bare/',
